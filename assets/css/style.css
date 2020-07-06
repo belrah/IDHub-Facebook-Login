@@ -39,18 +39,7 @@ small a {
     color: #99c2ff;
 }
 
-.button {
-    background-color: rgb(86, 95, 224);
-    border: 0px solid none;
-    color: white;
-    font-size: 12px;
-    padding: 2px;
-    padding-left: 0.4rem;
-    margin-top: 25px;
-    margin-left: 0rem;
-    border-radius: 1px;
-    width:40%;
-}
+
 
 @media (max-width: 600px) {
     .nav {
@@ -80,9 +69,19 @@ small a {
     float: left;
     width: 55%;
     background-color: #e6e6ff;
-    height: 590px;
-    
-   
+    height: 590px;  
+}
+.button {
+    background-color: rgb(86, 95, 224);
+    border: 0px solid none;
+    color: white;
+    font-size: 12px;
+    padding: 2px;
+    padding-left: 0.4rem;
+    margin-top: 25px;
+    margin-left: 0rem;
+    border-radius: 1px;
+    width:40%;
 }
 
 .logo p {
